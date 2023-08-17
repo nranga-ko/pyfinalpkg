@@ -8,5 +8,5 @@ setup(
     url='git@github.com:nranga-ko/pyfinalpkg.git',
     author_email='nranga@coca-cola.com',
     packages=find_packages(),
-    install_require=['pandas','datetime']
+    install_requires=['pandas','datetime'],
 )
